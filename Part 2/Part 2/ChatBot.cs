@@ -65,7 +65,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                     "Only visit secure HTTPS websites.",
                     "Avoid downloading files from unknown websites.",
                     "Keep your browser updated regularly.",
-                    "Install antivirus software for protection."
+                    "Install antivirus software for protection on your laptop."
                 }
             },
 
