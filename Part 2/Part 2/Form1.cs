@@ -52,7 +52,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 FormStartPosition.CenterScreen;
 
             this.BackColor =
-                Color.FromArgb(20, 20, 20);
+                Color.FromArgb(25, 25, 25);
 
             // ======================================================
             // TITLE LABEL
