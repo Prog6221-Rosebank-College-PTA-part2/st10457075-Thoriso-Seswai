@@ -68,7 +68,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 new Size(600, 40);
 
             lblTitle.Font =
-                new Font("Segoe UI", 18, FontStyle.Bold);
+                new Font("Segoe UI", 20, FontStyle.Bold);
 
             lblTitle.ForeColor =
                 Color.Cyan;
@@ -90,7 +90,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 Color.Lime;
 
             rtbChat.Font =
-                new Font("Consolas", 11);
+                new Font("Consolas", 12);
 
             rtbChat.ReadOnly = true;
 
@@ -105,7 +105,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 new Size(500, 35);
 
             txtInput.Font =
-                new Font("Segoe UI", 11);
+                new Font("Segoe UI", 12);
 
             txtInput.KeyDown +=
                 txtInputKeyDown;
