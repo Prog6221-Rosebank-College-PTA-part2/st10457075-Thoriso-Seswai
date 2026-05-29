@@ -74,7 +74,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 new List<string>()
                 {
                     "Avoid downloading software from untrusted websites.",
-                    "Keep your antivirus software updated.",
+                    "Keep your antivirus software updated all the time.",
                     "Do not open suspicious attachments.",
                     "Scan USB devices before opening files."
                 }
