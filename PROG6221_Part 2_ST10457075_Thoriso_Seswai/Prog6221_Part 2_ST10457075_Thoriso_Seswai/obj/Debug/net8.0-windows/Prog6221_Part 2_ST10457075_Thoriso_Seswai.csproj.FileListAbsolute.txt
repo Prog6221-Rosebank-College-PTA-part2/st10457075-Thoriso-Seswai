@@ -1,0 +1,44 @@
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.AssemblyInfo.cs
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.exe
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.deps.json
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.runtimeconfig.json
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.pdb
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\refint\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.pdb
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.genruntimeconfig.cache
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\ref\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part_2_ST10457075_Thoriso_Seswai.Form1.resources
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Prog6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221.FA94A5DB.Up2Date
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.exe
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.deps.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.runtimeconfig.json
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part_2_ST10457075_Thoriso_Seswai.Form1.resources
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.AssemblyInfoInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.AssemblyInfo.cs
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221.FA94A5DB.Up2Date
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\refint\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\Prog6221_Part 2_ST10457075_Thoriso_Seswai.genruntimeconfig.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\Documents\PROG6221_Part 2_ST10457075_Thoriso_Seswai\Prog6221_Part 2_ST10457075_Thoriso_Seswai\obj\Debug\net8.0-windows\ref\Prog6221_Part 2_ST10457075_Thoriso_Seswai.dll
