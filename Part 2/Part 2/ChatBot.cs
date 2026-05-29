@@ -161,7 +161,7 @@ namespace Prog6221_Part_2_ST10457075_Thoriso_Seswai
                 currentTopic = "phishing";
 
                 return "It is understandable to feel worried about online scams. " +
-                       "Here is a helpful tip: " +
+                       "Here is a helpful tip to help you: " +
                        GetRandomResponse("phishing");
             }
 
